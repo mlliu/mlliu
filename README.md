@@ -6,7 +6,7 @@
 ## I'm a Master Student, Wife, Mother, Developer, and Creator!!
 - ✍ You can find my resume here [linkedin](https://www.linkedin.com/in/meili-liu-ba5172155/)
 - 🔭 I’m currently pursing my master degree on Computer Science at Johns Hopkins University.
-- 🌱 I’m currently learning Natural Laguage Processing and Speech Recognition
+- 🌱 I focus on Natural Laguage Processing and Speech Recognition
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
